@@ -146,19 +146,19 @@ AI-Fault-Detection-System
 
 ## System Workflow
 
-Electrical Parameters
-↓
-Dataset (CSV)
-↓
-Data Preprocessing
-↓
-Neural Network Training
-↓
-Saved Model (.mat)
-↓
-MATLAB App Interface
-↓
-Fault Prediction
+Electrical Parameters  
+↓  
+Dataset (CSV)  
+↓  
+Data Preprocessing  
+↓  
+Neural Network Training  
+↓  
+Saved Model (.mat)  
+↓  
+MATLAB App Interface  
+↓  
+Fault Prediction  
 ---
 
 ## Demo
