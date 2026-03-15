@@ -141,7 +141,6 @@ AI-Fault-Detection-System
 │   └── fault_history_tab.png
 │
 └── README.md
-
 ---
 
 ## System Workflow
@@ -165,7 +164,6 @@ MATLAB App Interface
         │
         ▼
 Fault Prediction
-
 ---
 
 ## Demo
