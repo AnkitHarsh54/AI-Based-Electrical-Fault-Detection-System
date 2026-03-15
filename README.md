@@ -127,7 +127,7 @@ Additional features:
 ---
 ## Project Structure
 
-
+```text
 AI-Fault-Detection-System
 │
 ├── trainModel.m
@@ -141,10 +141,12 @@ AI-Fault-Detection-System
 │   └── fault_history_tab.png
 │
 └── README.md
----
+```
+
 
 ## System Workflow
 
+```text
 Electrical Parameters
         │
         ▼
@@ -164,7 +166,8 @@ MATLAB App Interface
         │
         ▼
 Fault Prediction
----
+```
+
 
 ## Demo
 
