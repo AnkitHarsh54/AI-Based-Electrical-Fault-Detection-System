@@ -70,4 +70,98 @@ The system uses a **Pattern Recognition Neural Network** implemented in MATLAB.
 4. Convert fault labels to one-hot encoding
 5. Train neural network model
 
-The trained model is saved as:
+## MATLAB Application Interface
+
+The project includes a MATLAB App Designer interface with three main tabs:
+
+### Home Tab
+
+Provides system overview and navigation options.
+
+Functions include:
+
+- User guide
+- Access to fault detection module
+- Display of normal operating ranges
+- Navigation to fault history
+
+---
+
+### Fault Detection Tab
+
+Users can input electrical parameters:
+
+- Voltage
+- Current
+- Temperature
+- Power Factor
+- Frequency
+
+After clicking **Detect Fault**, the system:
+
+1. Normalizes input values
+2. Passes them to the trained neural network
+3. Predicts the fault type
+4. Displays fault status and description
+
+---
+
+### Fault History Tab
+
+Stores previous predictions.
+
+Displayed information:
+
+- Voltage
+- Current
+- Power Factor
+- Temperature
+- Frequency
+- Detected Fault
+
+Additional features:
+
+- Clear history
+- Export results
+
+---
+## Project Structure
+
+
+AI-Fault-Detection-System
+│
+├── trainModel.m
+├── FaultDetectionApp.mlapp
+├── data.csv
+├── FaultDetectionNN.mat
+│
+├── screenshots
+│ ├── home_tab.png
+│ ├── fault_detection_tab.png
+│ └── fault_history_tab.png
+│
+└── README.md
+
+---
+
+## System Workflow
+
+Electrical Parameters
+↓
+Dataset (CSV)
+↓
+Data Preprocessing
+↓
+Neural Network Training
+↓
+Saved Model (.mat)
+↓
+MATLAB App Interface
+↓
+Fault Prediction
+---
+
+## Demo
+
+Demo video:  
+(Add Google Drive link here)
