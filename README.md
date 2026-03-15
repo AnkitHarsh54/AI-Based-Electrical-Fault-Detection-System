@@ -199,13 +199,13 @@ Fault Prediction
 
 ### Fault Detection Interface
 
-screenshots/fault_detection_tab.png
+![Fault Detection Tab](screenshots/fault_detection_tab.png)
 
 ---
 
 ### Fault History Interface
 
-screenshots/fault_history_tab.png
+![Fault History Tab](screenshots/fault_history_tab.png)
 
 ---
 
