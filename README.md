@@ -213,7 +213,7 @@ Fault Prediction
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/AI-Fault-Detection-System.git
+git clone https://github.com/AnkitHarsh54/AI-Fault-Detection-System.git
 ```
 
 2. Open MATLAB
