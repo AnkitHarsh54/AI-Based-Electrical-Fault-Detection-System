@@ -140,6 +140,10 @@ AI-Fault-Detection-System
 │   ├── fault_detection_tab.png
 │   └── fault_history_tab.png
 │
+├── assets
+│   ├── background.png
+│   ├── logo.png
+│
 └── README.md
 ```
 
