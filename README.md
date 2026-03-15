@@ -153,6 +153,9 @@ AI-Fault-Detection-System
 │   ├── fault_history_tab.png
 │   └── training_results.png
 │
+├── demo
+│   └── app_demo.gif
+│
 ├── assets
 │   ├── background.png
 │   ├── logo.png
@@ -209,7 +212,10 @@ Fault Prediction
 
 ---
 
-### Model Training Results
+
+## Application Demo
+
+![App Demo](demo/app_demo.gif)
 
 ---
 
@@ -252,12 +258,6 @@ Training algorithm:
 
 ---
 
-# Demo
-
-Demo video:
-(Add your Google Drive / YouTube demo link here)
-
----
 
 # Future Improvements
 
