@@ -190,21 +190,26 @@ Fault Prediction
 
 # Application Screenshots
 
-## Home Interface
+### Home Interface
 
 ![Home Tab](screenshots/home_tab.png)
 
----
-
-## Fault Detection Interface
-
-![Fault Detection](screenshots/fault_detection_tab.png)
 
 ---
 
-## Fault History Interface
+### Fault Detection Interface
 
-![Fault History](screenshots/fault_history_tab.png)
+screenshots/fault_detection_tab.png
+
+---
+
+### Fault History Interface
+
+screenshots/fault_history_tab.png
+
+---
+
+### Model Training Results
 
 ---
 
